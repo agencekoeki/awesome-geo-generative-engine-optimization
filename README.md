@@ -84,6 +84,7 @@ The single hardest GEO problem in 2026 is measurement. Classic rank trackers don
 - **[AI Visibility Monitor (various implementations)](https://www.searchenginejournal.com/ai-visibility-tracking-tools/501000/)** — Search Engine Journal maintains a comparative review of the current crop; update frequency beats any single tool's documentation.
 - **[Ahrefs AI Content Helper](https://ahrefs.com/ai-content-helper)** — The classic SEO vendor's entry into GEO. Useful if you already run Ahrefs for classic SEO and need a single dashboard.
 - **[BrightEdge Copilot Tracking](https://www.brightedge.com/)** — Enterprise-only. Worth mentioning because their research reports on AI Overviews are a reliable external dataset.
+- **[NotFair](https://github.com/nowork-studio/NotFair)** — Open-source Claude Code skills for SEO and GEO: site and content analysis, keyword research, and schema markup. Pulls your own live data via Google Search Console MCP, Google Analytics (GA4) MCP, Google Ads MCP, and Meta Ads MCP — closer to the DIY-script approach below than to a hosted dashboard.
 
 ### DIY measurement
 
