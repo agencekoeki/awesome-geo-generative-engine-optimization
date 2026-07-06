@@ -110,6 +110,7 @@ The technical layer is the only part of GEO that SEO professionals can fully con
 - **[Robots.txt reference](https://developers.google.com/search/docs/crawling-indexing/robots/robots_txt)** — The policy surface for allowing or blocking `GPTBot`, `OAI-SearchBot`, `Google-Extended`, `CCBot`, `ClaudeBot`, `PerplexityBot`, `Bytespider`, `anthropic-ai`. Decide per-crawler, not globally.
 - **[Google Rich Results Test](https://search.google.com/test/rich-results)** — Validate your Schema before trusting it. A broken JSON-LD is worse than none: the engine sees you tried and failed, and deprioritises your signal.
 - **[Schema.org Validator](https://validator.schema.org/)** — Stricter than Google. Catches properties that Google silently ignores but that LLMs may parse.
+- **[AnswerLens](https://app.sfdj.net/)** — Audits B2B SaaS public website evidence for pricing, proof, docs, comparison, trust, Schema, and `llms.txt` gaps. It returns a free readiness report and a paid implementation plan; it does not measure or promise rankings, citations, traffic, or AI visibility.
 
 ### Pattern: the "entity triangle"
 
