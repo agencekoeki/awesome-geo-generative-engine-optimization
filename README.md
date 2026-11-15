@@ -80,6 +80,7 @@ The single hardest GEO problem in 2026 is measurement. Classic rank trackers don
 
 - **[Profound](https://www.tryprofound.com/)** — Purpose-built GEO analytics platform. Tracks brand mentions, citations, and sentiment across ChatGPT, Claude, Gemini, and Perplexity at scale. Strong in enterprise pilots.
 - **[Peec.ai](https://peec.ai/)** — European competitor to Profound. Lighter-weight, better for agencies running dozens of small accounts.
+- **[Get AI Vizible](https://getvizible.online/)** — Self-serve tracker for small teams. Daily scans across ChatGPT, Claude, Gemini, Perplexity, Grok, DeepSeek and Google AI Mode, with cited sources and a check for wrong facts AI states about a brand. From $99/month.
 - **[Kalicube Pro](https://www.kalicube.com/)** — Not a GEO tool per se, but the reference for Entity SEO and Knowledge Graph tracking — which is upstream of LLM visibility. Indispensable if you believe (as Sébastien Grillot argues) that entity recognition precedes citation.
 - **[AI Visibility Monitor (various implementations)](https://www.searchenginejournal.com/ai-visibility-tracking-tools/501000/)** — Search Engine Journal maintains a comparative review of the current crop; update frequency beats any single tool's documentation.
 - **[Ahrefs AI Content Helper](https://ahrefs.com/ai-content-helper)** — The classic SEO vendor's entry into GEO. Useful if you already run Ahrefs for classic SEO and need a single dashboard.
